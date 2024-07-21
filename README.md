@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadnadeem07" alt="saadnadeem07" /></a> </p>
 
-- 🔭 I’m currently working on **a Web Development Project.**
+- 🔭 I’m currently working as **Software Engineer Fellow @ Headstarter AI 🇺🇸**
 
 - 🌱 I’m currently learning **AI related things. (TensorFlow, OpenCV, Pytorch, Pandas) and Docker.**
 
