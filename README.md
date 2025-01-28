@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 💬 Ask me about **Programming (PF, OOP, DS, ALGO, DB, WEB, AI)**
+- 💬 Ask me about **Programming PF, OOP, Data Structures, Algorithms, Databases, Web Development, and AI.**
 
 - 📫 How to reach me **saadnadeem5509@gmail.com**
 
