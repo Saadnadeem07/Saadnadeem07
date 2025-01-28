@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadnadeem07" alt="saadnadeem07" /></a> </p>
 
-- 🔭 I’m currently working as **Software Engineer Fellow @ Headstarter AI 🇺🇸**
+- 🔭 I’m currently working on my **FYP - NeuroAssess an AI-Assisted Support for Neurodivergent Students**
 
-- 🌱 I’m currently learning **AI related things. (TensorFlow, OpenCV, Pytorch, Pandas) and Docker.**
+- 🌱 I’m currently learning **DevOps technologies, including Docker, Kubernetes, GitHub Actions, and more.**
 
 - 👯 I’m looking to collaborate on projects related to **Web Development and Artificial Intelligence.**
 
-- 🤝 I’m looking for help with **Artificial Intelligence.**
+- 🤝 I’m looking for help with **Devops**
 
 - 💬 Ask me about **Programming (PF, OOP, DS, ALGO, DB, WEB, AI)**
 
-- 📫 How to reach me **saadnadeemch07@gmail.com**
+- 📫 How to reach me **saadnadeem5509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
