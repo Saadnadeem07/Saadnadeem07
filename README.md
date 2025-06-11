@@ -6,24 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadnadeem07" alt="saadnadeem07" /></a> </p>
 
 - 🔭 I’m currently working on **Automating Web Project Deployments with Terraform (IaC) and GitOps Practices**
-
-- 🌱 I’m currently learning **deeper understanding in DevOps and Cloud.**
-
-- 👯 I’m looking to collaborate on **DevOps and Cloud Projects.**
-
-- 🤝 I’m looking for help with **AI/ML, MLOps Projects.**
-
+- 🌱 I’m currently learning **deeper concepts in DevOps, Cloud Infrastructure, and AI Integration**
+- 👯 I’m looking to collaborate on **Full-Stack, DevOps, and Cloud-Native Projects**
+- 🤝 I’m looking for help with **AI/ML, MLOps, and Generative AI-based Applications**
 - 👨‍💻 All of my projects are available at [https://github.com/Saadnadeem07](https://github.com/Saadnadeem07)
-
 - 📝 I often write blogs on [https://medium.com/@saadnadeem07](https://medium.com/@saadnadeem07)
-
-- 💬 Ask me about **PF, OOP, Data Structures, Algorithms, Databases, Generative AI , Prompt Engineering , NLP , AI/ML, DevOps, AWS**
-
-- 📫 How to reach me **saadnadeem5509@gmail.com**
-
-- 📄 Know about my experiences [https://saadnadeem07.github.io/Personal-Portfolio/](https://saadnadeem07.github.io/Personal-Portfolio/)
-
-- ⚡ Fun fact **?**
+- 💬 Ask me about **PF, OOP, Data Structures, Algorithms, Databases, Generative AI, Prompt Engineering, NLP, AI/ML, DevOps, AWS**
+- 📫 How to reach me: **saadnadeem5509@gmail.com**
+- 📄 Know about my experiences: [https://saadnadeem07.github.io/Personal-Portfolio/](https://saadnadeem07.github.io/Personal-Portfolio/)
+- ⚡ Fun fact: **I enjoy turning complex backend systems into clean, scalable deployments with DevOps magic 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
