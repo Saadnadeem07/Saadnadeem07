@@ -21,8 +21,7 @@ Check out my live portfolio website to see my projects, skills, and certificatio
 - 📝 I share technical insights and tutorials on [Medium](https://medium.com/@saadnadeem07)
 - 💬 Let’s talk about **OOP, Data Structures, Databases, Generative AI, DevOps, AWS, Prompt Engineering, and more**
 - 📫 Reach me at: **saadnadeem5509@gmail.com**
-- 📄 **Want to see my work in action?**  
- 🔗 [Check out my Portfolio →](https://saadnadeem07.github.io/portfolio/)
+- 📄 **Want to see my work in action → **  🔗 [Check out my Portfolio ](https://saadnadeem07.github.io/portfolio/)
 - ⚡ Fun fact: **I love building automation workflows — like triggering CI/CD pipelines that auto-deploy apps the moment I push to a GitHub repo. 🚀**
 
 <h3 align="left">Connect with me:</h3>
