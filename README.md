@@ -73,7 +73,7 @@ Check out my live portfolio website to see my projects, skills, and certificatio
   <a href="https://argoproj.github.io/cd/"><img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="Argo CD" width="40" height="40"/></a>
   <a href="https://helm.sh/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/></a>
   <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
-
+ 
 </p>
 
 
