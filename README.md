@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saad Nadeem</h1>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saadnadeem07&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadnadeem07&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadnadeem07&layout=compact&theme=dark)
+
+
 <h3 align="center">Aspiring Full-Stack Developer with Experience in DevOps and Cloud Technologies.</h3>
 
 ## 🌐 Visit My Portfolio
