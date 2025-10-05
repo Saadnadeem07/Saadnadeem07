@@ -6,9 +6,9 @@
 ## 🌐 Portfolio
 Check out my live portfolio to see my projects, skills, and certifications:
 
-👉 **[Visit My Portfolio](https://saadnadeem07.github.io/portfolio)**  
+[**Click here or on the image to visit my portfolio**](https://saadnadeem07.github.io/portfolio)  
 
-![Portfolio Preview](Landing%20Page.png)
+[![Portfolio Preview](Landing%20Page.png)](https://saadnadeem07.github.io/portfolio)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadnadeem07&label=Profile%20views&color=0e75b6&style=flat" alt="saadnadeem07" /> </p>
 
