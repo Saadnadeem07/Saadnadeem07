@@ -4,7 +4,7 @@
   
   ### Full-Stack Developer | MERN & Next.js | AI Integrations & n8n Automations | Cloud-Native Applications
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+Metaviz;LLM+Evaluation+%26+RAG+Systems;Full+Stack+Developer;DevOps+%26+Cloud+Infrastructure;Building+Production-Grade+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&duration=2000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%40+Metaviz;MERN+%26+Next.js+Engineer;AI+Integrations+%26+n8n+Automations;Building+Production-Grade+AI+Apps;Shipping+Scalable+Web+Apps+Daily" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://saadnadeem07.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadnadeem07)
