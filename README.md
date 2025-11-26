@@ -27,6 +27,19 @@ I'm a **Software Engineer** with hands-on expertise in **Next.js & React** front
 
 ---
 
+## 💼 Professional Experience
+
+**Full Stack Developer** @ Metaviz | _Jun 2025 - Present_
+
+-	Delivered full-stack applications using **React and Next.js** for frontend, integrating with MERN backend services to create seamless end-to-end functionality.
+-	Built **REST APIs** with Node.js Express.js and MongoDB, ensuring reliable data handling and smooth backend functionality.
+-	Implemented robust **authentication (JWT, sessions) and role-based access control**, strengthening platform security and reducing unauthorized access incidents.
+-	**Containerized applications using Docker** to ensure consistent development environments and smooth project setup.
+-	Modernized an underperforming team’s workflow by creating a dedicated GitHub Organization for BigCommerce Stencil themes, enforcing structured repositories and branching standards, and introducing proper commit/deployment practices—resulting in a **3× faster development cycle and dramatically improved team collaboration.**
+
+---
+
+
 ## 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/saadnadeem07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
