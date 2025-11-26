@@ -1,34 +1,29 @@
-<h1 align="center">Hi 👋, I'm Saad Nadeem</h1> 
-<h3 align="center">Aspiring Full-Stack Developer | MERN & Next.js | AI Integrations | Cloud-Native Applications</h3>
+<div align="center">
+  
+  # Muhammad Saad Nadeem
+  
+  ### Full-Stack Developer | MERN & Next.js | AI Integrations & n8n Automations | Cloud-Native Applications
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+Metaviz;LLM+Evaluation+%26+RAG+Systems;Full+Stack+Developer;DevOps+%26+Cloud+Infrastructure;Building+Production-Grade+AI+Solutions" alt="Typing SVG" />
 
----
-
-## 🌐 Portfolio
-Check out my live portfolio to see my projects, skills, and certifications:
-
-[**Click here or on the image to visit my portfolio**](https://saadnadeem07.github.io/portfolio)  
-
-[![Portfolio Preview](Landing%20Page.png)](https://saadnadeem07.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://saadnadeem07.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadnadeem07)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadnadeem5509@gmail.com)
+[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1OjK69Lwlnx4FW1NoAB8Y0hE2rxHxoLE8/edit?usp=sharing&ouid=106180899309034027760&rtpof=true&sd=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadnadeem07&label=Profile%20views&color=0e75b6&style=flat" alt="saadnadeem07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadnadeem07" alt="saadnadeem07" /></a> </p>
+</div>
 
----
+## 🚀 About Me
 
-## 🔭 About Me
-- 🌱 Currently leveling up my **MERN Stack skills** and moving towards **Next.js**  
-- 💻 Focused on building **full-fledged web applications** with **AI integrations**  
-- 🚀 Planning to implement **cloud-native practices** including **containerization, scaling, and infrastructure automation**  
-- 👯 Looking to collaborate on **Full-Stack Applications, AI-powered Web Apps, and Scalable Cloud Projects**  
-- 💬 Passionate about **OOP, Data Structures, Databases, Web Performance, AI Integrations, and Scalable Architectures**  
+I'm a **Software Engineer** with hands-on expertise in **Next.js & React** frontends, **FastAPI & MERN** backends, **AI integrations & n8n automations**, and end-to-end **AWS** deployments. Currently a Full-Stack Developer at **Metaviz**, shipping production web apps, integrating **OpenAI/Gemini**, and building complex workflows with **n8n**.
 
----
-
-## 📫 Contact Me
-- Email: **saadnadeem5509@gmail.com**  
-- GitHub: [Saadnadeem07](https://github.com/Saadnadeem07)  
-- Medium: [@saadnadeem07](https://medium.com/@saadnadeem07)
+- 🔭 Recent **BS Computer Science** graduate from **FAST NUCES** (2025)
+- 🤖 Deep expertise in **MERN & Next.js** full-stack apps, **Prompt Engineering**, **RAG systems**, and **complex n8n automations**
+- ☁️ Hands-on with **AWS (EC2, S3, Lambda, RDS)**, **Docker + Docker Compose**, and **GitHub Actions CI/CD**
+- 🧠 Passionate about using AI to solve real-world problems, especially in healthcare and education
+- 🚀 Built and deployed production-grade web apps with AI integrations serving thousands of users
 
 ---
 
