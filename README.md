@@ -31,12 +31,11 @@ I'm a **Software Engineer** with hands-on expertise in **Next.js & React** front
 
 **Full Stack Developer** @ Metaviz | _Jun 2025 - Present_
 
--	Delivered full-stack applications using **React and Next.js** for frontend, integrating with MERN backend services to create seamless end-to-end functionality.
--	Built **REST APIs** with Node.js Express.js and MongoDB, ensuring reliable data handling and smooth backend functionality.
--	Implemented robust **authentication (JWT, sessions) and role-based access control**, strengthening platform security and reducing unauthorized access incidents.
--	**Containerized applications using Docker** to ensure consistent development environments and smooth project setup.
--	Modernized an underperforming team’s workflow by creating a dedicated GitHub Organization for BigCommerce Stencil themes, enforcing structured repositories and branching standards, and introducing proper commit/deployment practices—resulting in a **3× faster development cycle and dramatically improved team collaboration.**
-
+- Delivered full-stack features using React, Next.js, Node.js, and MongoDB, enabling seamless end-to-end functionality across frontend and backend systems.
+- Engineered reusable backend utilities including custom error-handling middleware, standardized API response structures, and async execution wrappers, reducing boilerplate code by 50% and improving error  visibility across team projects.
+- Developed secure authentication flows with JWT, session-based cookies, and RBAC for enterprise clients, reducing auth related bugs by 30% and meeting compliance requirements for sensitive data handling.
+- Architected scalable REST APIs with Express.js and MongoDB, implementing proper validation, pagination, and query optimization to handle high-traffic loads efficiently.
+- Transformed an underperforming team workflow by establishing a GitHub Organization for BigCommerce Stencil themes with standardized branching strategies, code review protocols, and deployment pipelines accelerating development by 60% and improving cross-team collaboration.
 ---
 
 
