@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://saadnadeem07.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadnadeem07)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadnadeem5509@gmail.com)
-[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1OjK69Lwlnx4FW1NoAB8Y0hE2rxHxoLE8/edit?usp=sharing&ouid=106180899309034027760&rtpof=true&sd=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadnadeem07&label=Profile%20views&color=0e75b6&style=flat" alt="saadnadeem07" /> </p>
 
